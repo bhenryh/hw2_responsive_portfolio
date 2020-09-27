@@ -1,0 +1,16 @@
+body {background-color: black;}
+
+body {color: red;}
+
+.col-md.12 {text-align:center}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: black;
+    text-align: center;
+
+
